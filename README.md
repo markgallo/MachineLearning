@@ -1,3 +1,3 @@
 # MachineLearning
 Labs
-QMSS Spring 2020
+2020
