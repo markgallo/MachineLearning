@@ -1,3 +1,3 @@
 # MachineLearning
-Labs
+Labs & Projects
 2020
